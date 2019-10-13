@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preferece_timer_melody_labels">
+
+        <item>Jony</item>
+        <item>Malbek</item>
+        <item>Olga</item>
+    </array>
+    <array name="preferece_timer_melody_values">
+
+        <item>bell</item>
+        <item>allarm</item>
+        <item>bip</item>
+    </array>
+</resources>
